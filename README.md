@@ -1,4 +1,4 @@
-# 📘 [Informatique MP2I](https://www.informatiquemp2i.fr)
+# [Informatique MP2I](https://www.informatiquemp2i.fr)
 
 Bienvenue sur l'organisation GitHub associée au livre **Informatique pour la MP2I**.
 
@@ -10,6 +10,8 @@ Ce dépôt centralise les ressources liées aux chapitres du livre :
 Site web officiel : [informatiquemp2i.fr](https://www.informatiquemp2i.fr)
 
 ## Table des matières
+
+A venir. 
 
 ## ℹ️ À propos
 
