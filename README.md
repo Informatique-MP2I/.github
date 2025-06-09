@@ -13,7 +13,7 @@ Site web officiel : [informatiquemp2i.fr](https://www.informatiquemp2i.fr)
 
 A venir. 
 
-## ℹ️ À propos
+## À propos
 
 Ce projet pédagogique accompagne un ouvrage destiné aux classes MP2I.  
 L’ensemble du code est librement accessible, organisé et maintenu pour favoriser l’autonomie et la progression des étudiants.
