@@ -2,10 +2,14 @@
 
 Bienvenue sur l'organisation GitHub associée au livre **Informatique MP2I**.
 
-Ce dépôt centralise les ressources liées aux chapitres du livre :  
-- Code C et OCaml donné dans les cours  
-- Exercices s'appuyant sur des extraits de code   
-- Solutions détaillées des exercices
+Ce dépôt centralise les ressources liées aux chapitres du livre. Chaque dépôt se compose (potentiellement) de trois répertoires :  
+- `cours`, qui rassemble les codes proposés dans les chapitres correspondants du livre, numérotés de manière identique ;  
+- `exercices`, qui fournit des canevas destinés à faciliter la réalisation des exercices ;  
+- `solutions`, qui contient les codes sources des solutions des exercices présentés.  
+
+Un dépôt peut ne pas inclure l’ensemble de ces répertoires.
+
+Ce projet est distribué sous licence GPL-3.0 (voir le fichier `LICENCE`) et a été réalisé par Aslı Grimaud et Gilles Grimaud (voir le fichier `AUTHORS`).
 
 Site web officiel : [informatiquemp2i.fr](https://www.informatiquemp2i.fr)
 
