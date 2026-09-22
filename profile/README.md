@@ -13,6 +13,8 @@ Ce projet est distribué sous licence GPL-3.0 (voir le fichier `LICENCE`) et a �
 
 Site web officiel : [informatiquemp2i.fr](https://www.informatiquemp2i.fr)
 
+Vous pouvez également consulter le livre [Informatique MPI](https://www.informatiquempi.fr) et accéder aux codes sources associés via ce lien : [Informatique-MPI](https://github.com/Informatique-MPI).
+
 ## Table des matières
 
 * [Chapitre 1 : Gestion des fichiers](https://github.com/Informatique-MP2I/Ch01_Gestion_des_Fichiers)
